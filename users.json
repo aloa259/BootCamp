@@ -1,0 +1,60 @@
+[
+   {
+      "first_name": "admin",
+      "last_name": "admin",
+      "email": "admin@admin.com",
+      "saldo": "54654",
+      "role": "admin"
+   },
+   {
+      "first_name": "juan",
+      "last_name": "hernandez",
+      "email": "juan@upc.com",
+      "saldo": "5464",
+      "role": ""
+  },
+  {
+      "first_name": "diana",
+      "last_name": "perez",
+      "email": "diana@upc.com",
+      "saldo": "646464",
+      "role": "normal"
+   },
+   {
+       "first_name": "pedro",
+      "last_name": "ortega",
+       "email": "pedro@upc.com",
+       "saldo": "8567",
+       "role": "normal"
+    },
+    {
+        "first_name": "andres",
+        "last_name": "ortigoza",
+        "email": "andres@upc.com",
+        "saldo": "8712",
+        "role": "normal"
+     },
+     {
+        "first_name": "maria",
+        "last_name": "lagunas",
+        "email": "maria@upc.com",
+        "saldo": "1250",
+        "role": "normal"
+     },
+
+     {
+        "first_name": "manuel",
+        "last_name": "garcia",
+        "email": "maria@upc.com",
+        "saldo": "1250",
+        "role": "normal"
+     },
+    {
+        "first_name": "pedro",
+        "last_name": "colmenares",
+        "email": "maria@upc.com",
+        "saldo": "1250",
+        "role": "normal"
+     }
+   
+ ]
